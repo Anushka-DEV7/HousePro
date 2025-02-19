@@ -1,0 +1,83 @@
+Css code:
+.b{
+    background-image: url("C:\wamp\www\projectmca\img\samuria.png");
+	background-size:cover;
+	block-size:600px;
+    background-repeat: no-repeat;
+	padding-top:20%;
+	padding-bottom:19%;
+	padding-left:30%;
+	padding-right:30%;
+    overflow-x:hidden;
+	overflow-y:hidden;
+	height: 300px;
+  background-repeat: repeat-y;
+  position: relative;
+    overflow-x:hidden;
+  }
+  .div1
+  {
+   background-image: url("img/bgk.jpg");
+   border:2px groove black;
+   padding:25%;
+   padding-top:50%;
+   box-shadow:  0 6px 20px 0 white, 0 6px 20px 0 white;
+   border-radius:80px;
+  
+  }
+  #content{
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 30px;
+    color: white;
+	
+	
+  }
+ 
+input {
+  width: 78%;
+  padding-right:40px;
+  padding-left:5px;
+  padding-bottom:10px;
+  border: 0;
+  outline:0;
+  
+   background: transparent;
+   border-bottom: 2px solid white;
+   float:center;
+   font-size:18px;
+   color:white;
+   
+  }	
+  ::placeholder{
+  color:white;
+  }
+  input[type=submit]
+  {
+    color:white;
+  
+   width:30%;
+   padding-top:2%;
+   padding-bottom:2%;
+   padding:2%;
+   float:center;
+   background-color:white;
+  color: #493425;
+  border: 2px solid white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight:bold;
+   
+ }
+ #h:hover
+ {
+  background-color:black;
+  color:white;
+  
+  }
+  #textbox{
+  
+  font-size: 80%;
+}

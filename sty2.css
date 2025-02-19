@@ -1,0 +1,139 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-image: url("img/voilet5.jpg");
+	 background-size:cover;
+  background-position: center;
+	color: white !important;
+}
+.navbar
+{
+ margin-bottom:120px;
+}
+.navv
+{
+	padding: 10px 0;
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo1
+{
+	width: 170px;
+	border: 4px solid Ivory;
+}
+.navli
+{
+	display: inline-block;
+	list-style: none;
+	margin: 10px 15px;
+}
+.logn-btn
+{
+	text-decoration: none;
+	color: #333;
+	margin-right: 10px;
+	font-weight: 700;
+	
+}
+.f
+{
+
+  font-weight: 700;
+  transition: 0.10s;
+  padding: 12px;
+  font-size:15px;
+  border-radius:30px;
+  color: Orange;
+  margin-bottom:5px;
+  
+  text-decoration: underline;
+}
+.btn1
+{
+  
+
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 40px;
+  color: #fff;
+  background-image: linear-gradient(45deg,DarkSlateGray,DarkBlue,DarkSlateBlue);
+  font-size:15px;
+  border-radius:30px;
+  border-top-right-radius: 0;
+  font-weight: 500;
+  transition: 0.10s;
+  border: 4px solid Ivory;
+  margin-right: 30px;
+	margin-left: 30px;
+}
+.btn1:hover
+{
+	border-top-right-radius: 30px
+}
+.btnn
+{
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 40px;
+  color: #fff;
+  background-image: linear-gradient(45deg,DarkSlateGray,DarkBlue,DarkSlateBlue);
+  font-size:20px;
+  border-radius:30px;
+  border-top-right-radius: 0;
+  font-weight: 700;
+  transition: 0.10s;
+  border: 4px solid Ivory;
+  margin-right: 30px;
+  margin-left: 30px;
+ 
+}
+.btnn:hover
+{
+	border-top-right-radius: 30px
+}
+.services
+{
+	margin-top:50px;
+	margin-bottom: 80px;
+}
+.service-box
+{
+	box-shadow: 0 0 4px 0 #ffa709;
+	padding: 15px;
+	position: relative;
+}
+p
+{ 
+  text-align:justify;
+}
+.colbtn
+{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	display: block;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.fa-solid
+{
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+span
+{
+ background: linear-gradient(to right,Yellow,Orange,#ff105f,#ffad06);
+-webkit-background-clip: text;
+color: transparent;
+} 
+.divbtn 
+{
+  margin-left: 125px;
+} 

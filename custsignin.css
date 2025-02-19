@@ -1,0 +1,10 @@
+  
+  .div1
+  {
+   ackground-color: rgb(201, 76, 76);
+   border:2px groove black;
+   padding:25%;
+   padding-top:50%;
+   box-shadow:  0 6px 20px 0 white, 0 6px 20px 0 white;
+   border-radius:80px;
+  }

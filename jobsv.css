@@ -1,0 +1,236 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: "Poppins" , sans-serif;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('img/job5.jpeg');
+  background-size: contain;
+background-repeat: no-repeat;
+  background-position: center;
+}
+nav
+{
+	padding: 10px 0;
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo
+{
+	width: 170px;
+	border: 4px solid Ivory;
+	margin-left: 50px;
+	margin-right: 60px;
+}
+nav ul li
+{
+	display: inline-block;
+	list-style: none;
+	margin: 10px 15px;
+}
+nav ul li a 
+{
+	
+	text-decoration: none;
+	color: #333;
+	font-weight: 700;
+    margin-right: 30px;
+}
+.logn-btn
+{
+	text-decoration: none;
+	color: #333;
+	margin-right: 10px;
+	font-weight: 700;
+	
+}
+.btn
+{
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 30px;
+  color: #fff;
+  background-image: linear-gradient(45deg,DarkSlateGray,DarkBlue,DarkSlateBlue);
+  font-size:20px;
+  border-radius:30px;
+  border-top-right-radius: 0;
+  font-weight: 700;
+  transition: 0.10s;
+  border: 4px solid Ivory;
+ 
+}
+.btn:hover
+{
+	border-top-right-radius: 30px
+}
+.btnn
+{
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 40px;
+  color: #fff;
+  background-image: linear-gradient(45deg,DarkSlateGray,DarkBlue,DarkSlateBlue);
+  font-size:20px;
+  border-radius:30px;
+  border-top-right-radius: 0;
+  font-weight: 700;
+  transition: 0.10s;
+  border: 4px solid Ivory;
+  margin-right: 30px;
+
+ 
+}
+.btnn:hover
+{
+	border-top-right-radius: 30px
+}
+.navbar
+{
+ margin-bottom:100px;
+}
+.wrapper
+{
+ width: 420px;
+background: transparent;
+border: 2px solid MidnightBlue;
+backdrop-filter: blur(30px);
+box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+color:#fff;
+border-radius: 10px;
+padding: 10px 20px;
+margin-left:500px;
+}
+.wrapper h1
+{
+	font-size: 36px;
+	text-align: center;
+}
+.wrapper .inpbox
+{
+	width: 100%;
+	height: 50px;
+	margin: 30px  0;
+}
+
+.inpbox input
+{
+width: 100%;
+height: 100%;
+background: transparent;
+border: none;
+outline: none;
+border: 6px solid MidnightBlue;
+border-radius: 40px;
+font-size: 19px;
+color: MintCream;
+padding: 20px 45px 20px 20px;
+}
+.inpbox input::placeholder
+{
+	color: MintCream;
+}
+.wrapper .btn
+{
+	width: 100%;
+	height: 45px;
+	background: MidnightBlue;
+	border: none;
+	outline: none;
+	border-radius: 40px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+	cursor: pointer;
+	font-size: 19px;
+	color: MintCream;
+	font-weight: 600;
+	padding: 10px 10px;
+	margin-right: 10px;
+}
+.wrapper .reglink
+{
+	font-size: 17px;
+	text-align: center;
+	margin: 20px 0 15px; 
+}
+.reglink p a 
+{
+	color: MintCream;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.reglink p a:hover
+{
+	text-decoration: underline;
+}
+	
+#logo
+{
+float:left;
+margin-right:300px;
+}
+.table
+{
+  padding: 0 20px;
+}
+.table table
+{
+	width: 100%;
+}
+.table table , th ,td
+{
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #616161;
+  border-collapse: collapse;
+}
+.table tr th
+{
+	font-size:22px;
+	font-weight: 400;
+}
+.table table tr:first-child
+{
+ color: Teal;
+ background-color: Azure;
+}
+.table tr th:nth-child(2)
+{
+	text-align: left;
+	width: 230px;
+	color: Teal;
+ background-color: Azure;
+}
+.table tr td:nth-child(2)
+{
+	text-align: left;
+	width: 230px;
+}
+.bottomsec
+{
+	margin-top: 15px;
+	padding: 20px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.bottomsec .status-content h4
+{
+	font-size: 22px;
+	font-weight:700;
+	margin-bottom:10px;
+}
+.bottomsec .status.free::before
+{
+ padding:5px 10px;
+ border-radius: 5px;
+ margin-bottom: 8px;
+ display: inline-block;
+ text-transform: uppercase;
+}

@@ -1,0 +1,218 @@
+.div2{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid cornsilk;
+	padding-top:5px;
+	padding-left:5px;
+	padding-bottom:5px;
+	padding-right:5px;
+    background-color:teal;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR
+	   {
+       color:cornsilk; 
+       font-family:garamound; 
+       font-size: 70px;
+       text-align:center; 
+       }
+.div3{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid deeppink;
+	border-radius:10px;
+	padding:5px;
+    background-color:lightpink;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR1
+	   {
+       color:crimson; 
+       font-family:garamound; 
+       font-size: 30px;
+       text-align:left;
+padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;	   
+       }
+img.fr{
+    float: right;
+	block-size : 400px;
+	padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;
+	
+    }
+.div4{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid dodgerblue;
+	border-radius:10px;
+	padding:5px;
+    background-color:lightcyan;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR2
+	   {
+       color:dodgerblue ; 
+       font-family:garamound; 
+       font-size: 30px;
+       text-align:left;
+     padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;	   
+       }
+img.fr1{
+    float:right;
+	block-size : 400px;
+	padding-top : 20px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;
+    }
+hr.h {
+   border-top: 3px dashed dodgerblue;
+   }
+.div5{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid orangered;
+	border-radius:10px;
+	padding:5px;
+    background-color:lightgoldenrodyellow;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR3
+	   {
+       color:	orangered ; 
+       font-family:garamound; 
+       font-size: 30px;
+       text-align:left;
+     padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;	   
+       }
+img.fr3{
+    float:right;
+	block-size : 400px;
+	padding-top : 20px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;
+    }
+.div6{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid darkblue;
+	border-radius:10px;
+	padding:5px;
+    background-color:cornsilk;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR4
+	   {
+       color:darkblue; 
+       font-family:garamound; 
+       font-size: 30px;
+       text-align:left;
+     padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;	   
+       }
+img.fr4{
+    float:right;
+	block-size : 400px;
+	padding-top : 20px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;
+    }
+.div7{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid mediumvoiletred;
+	border-radius:10px;
+	padding:5px;
+    background-color:plum;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR5
+	   {
+       color:linen; 
+       font-family:garamound; 
+       font-size: 30px;
+       text-align:left;
+     padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;	   
+       }
+img.fr5{
+    float:right;
+	block-size : 400px;
+	padding-top : 20px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;
+    }
+.div8{
+    margin-top:2%;
+	margin-bottom:2%;
+	margin-left:5%;
+	margin-right:5%;
+	border : 3px solid deepskyblue;
+	border-radius:10px;
+	padding:5px;
+    background-color:lightcyan;
+    background-size:contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+	}
+#styleR6
+	   {
+       color:deepskyblue; 
+       font-family:garamound; 
+       font-size: 30px;
+       text-align:left;
+     padding-top : 10px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;	   
+       }
+img.fr6{
+    float:right;
+	block-size : 400px;
+	padding-top : 20px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom : 10px;
+    }
